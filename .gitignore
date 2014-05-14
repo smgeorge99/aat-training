@@ -1,2 +1,17 @@
+# Eclipse #
+###########
+.project
+.classpath
+.settings
+bin
+*.launch
+gradle-app.setting
+
+# Gradle #
+##########
 .gradle
-build/
+build
+settings.gradle
+
+.DS_Store
+\~*
